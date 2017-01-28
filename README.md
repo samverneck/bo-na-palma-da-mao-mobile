@@ -50,3 +50,15 @@ colocar tudo num grande e pesado bundle.
 ## [Gulp](http://gulpjs.com)
 
 O automatizador de tarefas de build da aplicação.
+
+## Plugins [IONIC2] (https://ionicframework.com/docs/v2/native/)
+
+* https://ionicframework.com/docs/v2/native/geolocation/
+	- ionic plugin add cordova-plugin-geolocation
+	
+* https://ionicframework.com/docs/v2/native/google-maps/
+	- ionic plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="YOUR_ANDROID_API_KEY_IS_HERE" --variable API_KEY_FOR_IOS="YOUR_IOS_API_KEY_IS_HERE"
+
+Repo: https://github.com/apache/cordova-plugin-geolocation
+Repo: https://github.com/mapsplugin/cordova-plugin-googlemaps
+ 
