@@ -58,3 +58,5 @@ os tornam “utilizáveis” através de função require() ou import(ES2015);
 colocar tudo num grande e pesado bundle.
 
 ## [Gulp](http://gulpjs.com)
+
+O automatizador de tarefas de build da aplicação.
