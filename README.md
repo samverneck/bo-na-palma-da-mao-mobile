@@ -1,11 +1,5 @@
 # BO na Palma da Mão
 
-O BO NA PALMA DA MÃO é um programa do Governo do Estado do Espírito Santo que reúne iniciativas e serviços do Governo em plataforma móvel (aplicativo) e web, com unidade de experiência do cidadão. Por meio do ES NA PALMA DA MÃO, diversos serviços governamentais como o proprio Bo na Palma da Mão podem ser acessados através da web e dispositivos móveis (sistemas operacionais iOS e Android) utilizando uma interface comum.
-
-<a href="https://play.google.com/store/apps/details?id=br.gov.es.prodest.espm&referrer=utm_source%3Dgithub%26utm_medium%3Dreadme">
-<img src="https://4.bp.blogspot.com/-DV3oSkBGKVw/VWdWwTZ0DSI/AAAAAAAABrs/KizNkOcUhGw/s1600/Google%2BPlay%2Blogo.png" width="200px" />
-</a>
-
 **Tabela de Conteúdo**  
 
 - [Principais Tecnologias Utilizadas](#principais-tecnologias-utilizadas)
