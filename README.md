@@ -10,11 +10,7 @@
 	- [webpack](#webpack)
 	- [Gulp](#gulp)
   - [Sass](#sass)
-- [Visão Geral](#visão-geral)
-	- [Build System](#build-system)
-	- [Estrutura de arquivos](#estrutura-de-arquivos)
-	- [Configuração de testes](#configuração-de-testes)
-  
+
 # Principais Tecnologias Utilizadas
 Essas são as principais ferramentas, *frameworks* e *libraries* que dão suporte ao projeto:
 
