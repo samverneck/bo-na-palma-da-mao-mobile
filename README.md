@@ -50,8 +50,9 @@ colocar tudo num grande e pesado bundle.
 ## [Gulp](http://gulpjs.com)
 
 O automatizador de tarefas de build da aplicação.
+_______________________________________
 
-## Plugins [IONIC2] (https://ionicframework.com/docs/v2/native/)
+## Plugins [IONIC 2] (https://ionicframework.com/docs/v2/native/)
 
 * https://ionicframework.com/docs/v2/native/geolocation/
 	- ionic plugin add cordova-plugin-geolocation
