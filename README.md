@@ -60,7 +60,7 @@ _______________________________________
 * https://ionicframework.com/docs/v2/native/google-maps/
 	- ionic plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="YOUR_ANDROID_API_KEY_IS_HERE" --variable API_KEY_FOR_IOS="YOUR_IOS_API_KEY_IS_HERE"
 
-	- Repo: https://github.com/apache/cordova-plugin-geolocation
+	   - Repo: https://github.com/apache/cordova-plugin-geolocation
 
-	- Repo: https://github.com/mapsplugin/cordova-plugin-googlemaps
+	   - Repo: https://github.com/mapsplugin/cordova-plugin-googlemaps
  
